@@ -73,7 +73,7 @@ public extension SmartMarkdownTheme {
     static let compact = SmartMarkdownTheme(
         textFont: .system(size: 14),
         cardCornerRadius: 12,
-        fieldKeyWidth: 110,
-        blockSpacing: 10
+        blockSpacing: 10,
+        fieldKeyWidth: 110
     )
 }
